@@ -1,0 +1,51 @@
+.parent{
+    width: 94%;
+    height: 534px;
+    display: flex;
+    float: left;
+    justify-content: space-evenly;
+    border: solid black 1px;
+}
+.boxes1{
+    width: 30%;
+    height: 300px;
+    border: black;
+    border-width: 1px;
+    border-style: solid;
+    padding: 117px;
+    justify-content: flex-end;
+}
+.boxes2{
+    width: 30%;
+    height: 300px;
+    border: black;
+    border-width: 1px;
+    border-style: solid;
+    padding: 117px;
+    justify-content: flex-end;
+}
+.boxes3{
+    width: 30%;
+    height: 300px;
+    border: black;
+    border-width: 1px;
+    border-style: solid;
+    padding: 117px;
+    justify-content: flex-end;
+}
+img{
+    width: 231%;
+    height: 68%;
+    padding: -32px;
+    margin-top: -66%;
+    margin-left: -64%;
+    justify-content: space-evenly;
+}
+h1{
+    text-align: center;
+}
+p{
+    margin-top:3%;
+    margin-left:-73% ;
+    padding: 13%;
+}

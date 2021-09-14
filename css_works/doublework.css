@@ -1,0 +1,15 @@
+.b1{
+    border: solid black 1px;
+    background-color: brown;
+    width: 600px;
+    height: 600px;
+}
+.b2{
+    border: solid black 1px;
+    background-color: cornflowerblue;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+}

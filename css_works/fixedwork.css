@@ -1,0 +1,12 @@
+body{
+   height: 1400px; 
+}
+.fixed{
+    border: solid black 1px;
+    background-color: chartreuse;
+    position: sticky;
+    width: 200px;
+    height: 200px;
+    top: 10%;
+    left: 80%;
+}

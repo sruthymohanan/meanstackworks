@@ -1,0 +1,27 @@
+.parent{
+    width: 450px;
+    height: 310px;
+background-color: aquamarine;
+display: flex;
+}
+.col{
+    width: 50px;
+    height: 200px;
+    padding: 10px;
+}
+.col1{
+    background-color: blueviolet;
+    flex: 1;
+}
+.col2{
+background-color: crimson;
+flex: 2;
+}
+.col3{
+    background-color: darkgreen;
+    flex: 3;
+}
+.col4{
+    background-color: hotpink;
+    flex: 4;
+}

@@ -1,0 +1,24 @@
+.parent{
+    width: 450px;
+    height: 500px;
+background-color: aquamarine;
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+.col{
+    width: 100px;
+    height: 300px;
+}
+.col1{
+    background-color: blueviolet;
+}
+.col2{
+background-color: crimson;
+}
+.col3{
+    background-color: darkgreen;
+}
+.col4{
+    background-color: hotpink;
+}
